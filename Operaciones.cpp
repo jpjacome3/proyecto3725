@@ -10,4 +10,8 @@ else
  printf("Numero invalido");
 
 }
+<<<<<<< HEAD
 //tercer cambio en dev c++
+=======
+//cambio 2 en dev c++
+>>>>>>> grupo1
