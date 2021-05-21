@@ -10,3 +10,4 @@ else
  printf("Numero invalido");
 
 }
+//cambio 2 en dev c++
